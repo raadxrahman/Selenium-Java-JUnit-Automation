@@ -1,5 +1,5 @@
 # Automating and Scraping Webpages using Junit & Selenium 
-In this project, I have used Junit and Selenium to automate two webforms and scrape data from one web table. 
+In this project, I have used JUnit and Selenium to automate two webforms and scrape data from one web table. 
 
 ## Technologies Used
 
